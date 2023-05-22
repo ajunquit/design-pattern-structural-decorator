@@ -21,7 +21,7 @@ namespace design_pattern_structural_decorator
 
         public void AddedBehavior()
         {
-            Console.WriteLine("Feature behavior added...");
+            Console.WriteLine("Feature behavior added from Decorator B...");
         }
     }
 }

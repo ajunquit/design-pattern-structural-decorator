@@ -10,7 +10,7 @@ namespace design_pattern_structural_decorator
     {
         public void Operation()
         {
-            Console.WriteLine("Operación del componente base");
+            Console.WriteLine("Base operation of component...");
         }
     }
 }
